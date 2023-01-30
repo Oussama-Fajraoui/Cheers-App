@@ -14,3 +14,7 @@ In this repo, the cocktail web application was made using firebase auth operatio
 ## DEMO
 
 ![ezgif com-gif-maker (4)](https://im3.ezgif.com/tmp/ezgif-3-1e6882eb57.gif)
+
+### Link
+
+https://cheers-app.vercel.app/
